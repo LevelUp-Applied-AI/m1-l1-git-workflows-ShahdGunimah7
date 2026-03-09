@@ -5,6 +5,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+.venv/
 
 # Add more patterns here:
 # - Virtual environment: .venv/
